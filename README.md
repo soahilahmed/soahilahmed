@@ -129,3 +129,25 @@ If you'd like to collaborate on AI, ML, Mobile Development, or Open Source proje
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sohail-ahmed-041999302/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:sohailahmedhattar719@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://sohailahmedd.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="50" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/hattar" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="50" alt="Kaggle"/>
+  </a>
+</p>
