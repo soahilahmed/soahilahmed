@@ -129,22 +129,3 @@ If you'd like to collaborate on AI, ML, Mobile Development, or Open Source proje
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Connect with Me
-<p>
-
-  <a href="https://github.com/malik-tanveer" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/malik-tanveer-8bbaa13b2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40"/>
-  </a>
-
-  <a href="mailto:mtanveerdev.33@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://tanveer-49ddc.web.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" height="40"/>
-  </a>
-</p>
