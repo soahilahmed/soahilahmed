@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Sohail%20Ahmed&fontSize=62&fontColor=00F5FF&animation=blink&fontAlignY=38&desc=AI%20Engineer%20|%20Deep%20Learning%20|%20Computer%20Vision&descSize=22&descColor=FFFFFF&descAlignY=64" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,5,12,20&text=Sohail%20Ahmed&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer&descSize=24&descColor=ffffff&descAlignY=62" width="100%" />
 
 ## 👨‍💻 About Me
 
