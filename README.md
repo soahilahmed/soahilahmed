@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,5,12,20&text=Sohail%20Ahmed&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer&descSize=24&descColor=ffffff&descAlignY=62" width="100%" />
 
 ## 👨‍💻 About Me
 
