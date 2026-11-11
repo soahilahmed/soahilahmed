@@ -64,7 +64,7 @@ If you'd like to collaborate on AI, ML, Mobile Development, or Open Source proje
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soahilahmed&theme=radical&radius=10" alt="soahilahmed's Activity Graph" />
 </p>
-## 🛠️ Languages & Tools
+ 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
 
